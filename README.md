@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:** Adhithya K
+**Name:** Sharukesh T
 
-**Register Number:** 2305002001
+**Register Number:** 2305002022
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
